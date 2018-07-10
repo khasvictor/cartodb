@@ -1504,9 +1504,9 @@
       "resolved": "https://registry.npmjs.org/hash-base/-/hash-base-3.0.4.tgz"
     },
     "hash.js": {
-      "version": "1.1.4",
+      "version": "1.1.5",
       "from": "hash.js@>=1.0.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/hash.js/-/hash.js-1.1.4.tgz"
+      "resolved": "https://registry.npmjs.org/hash.js/-/hash.js-1.1.5.tgz"
     },
     "he": {
       "version": "1.1.1",
@@ -1665,9 +1665,9 @@
       }
     },
     "internal-carto.js": {
-      "version": "4.0.12",
-      "from": "cartodb/carto.js#v4.0.12",
-      "resolved": "git://github.com/cartodb/carto.js.git#655211487ceeb22aced27e28135bb9c723b79386"
+      "version": "4.0.15",
+      "from": "cartodb/carto.js#2142-start-end-histogram",
+      "resolved": "git://github.com/cartodb/carto.js.git#73609a5f241785dd3a861f56c11456b5e6e33008"
     },
     "interpret": {
       "version": "1.1.0",
